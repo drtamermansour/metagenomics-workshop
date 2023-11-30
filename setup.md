@@ -115,8 +115,11 @@ If you have difficulties with the installations or find better ways to install t
 To make a [Conda](https://conda.io/projects/conda/en/latest/index.html) environment, first, you need to install Conda. We recommend installing the [Miniconda3](https://docs.conda.io/en/latest/miniconda.html) version. Miniconda is a package manager that includes Conda and its dependencies and simplifies the installation process. Please first install Miniconda3 (installation instructions below) and then proceed to the installation of the environment.
 
 > ## Linux
-> 
-> To install miniconda3, see the [video tutorial](https://youtu.be/0PqwShSDH20)
+>
+> $ wget https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-Linux-x86_64.sh
+> $ bash Mambaforge-Linux-x86_64.sh -b -p "${HOME}/conda"
+> $ ~/conda/bin/mamba init
+> $ source ~/.bashrc  # if you are using zsh then do `source ~/.zshrc` 
 {: .solution}
 
 > ## MacOSX
