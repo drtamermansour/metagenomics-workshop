@@ -114,7 +114,7 @@ they can take it from here.
 ## Installation
 
 This workshop is designed to be run on pre-imaged Amazon Web Services (AWS) instances. See the 
-[Setup page](https://carpentries-lab.github.io/metagenomics-workshop/setup.html) for complete setup instructions. If you are
+[Setup page](https://drtamermansour.github.io/metagenomics-workshop/setup.html) for complete setup instructions. If you are
 teaching these lessons, and would like an AWS instance to practice on, please contact [team@carpentries.org](mailto: team@carpentries.org).
 
 ## Common problems
@@ -143,7 +143,7 @@ quality control in a spreadsheet program.
 
 ## Lesson design
 
-#### [Data tidiness](https://carpentries-lab.github.io/metagenomics-organization/01-tidiness/index.html)
+#### [Data tidiness](https://drtamermansour.github.io/metagenomics-organization/01-tidiness/index.html)
 
 * Introduce that we're teaching data organization, and that we're using
 spreadsheets, because most people do data entry in spreadsheets or 
@@ -167,12 +167,12 @@ of the data in the spreadsheet. What are the pain points!?
 * Go through the cardinal rule of spreadsheets about columns, rows and cells.
 * Hand them a messy data file and have them pair up and work together to clean up the data.
 
-#### [Planning for NGS projects](https://carpentries-lab.github.io/metagenomics-organization/02-project-planning/index.html)
+#### [Planning for NGS projects](https://drtamermansour.github.io/metagenomics-organization/02-project-planning/index.html)
 
 * This episode depends on learners discussing exercises with one another. 
 Be sure to give plenty of time for this discussion.
 
-#### [Examining Data on the NCBI SRA Database](https://carpentries-lab.github.io/metagenomics-organization/03-ncbi-sra/index.html)
+#### [Examining Data on the NCBI SRA Database](https://drtamermansour.github.io/metagenomics-organization/03-ncbi-sra/index.html)
 
 * Learners should *not* actually download the ENA files in the "Downloading a few sequencing files: EMBL-EBI" section. 
 
@@ -190,7 +190,7 @@ they may have already generated their own data, they may be speculatively acquir
 
 You should feel free to "read the room", and it can be helpful to ask more specifics in a pre-workshop survey.
 
-#### [Data tidiness](https://carpentries-lab.github.io/metagenomics-organization/01-tidiness/index.html)
+#### [Data tidiness](https://drtamermansour.github.io/metagenomics-organization/01-tidiness/index.html)
 
 Discussion 1, "What kinds of data and information have you generated before you sent your DNA/RNA off for sequencing?" can go very differently depending on the participants' background. Many instructors make adjustments to this section, and they should, depending on the learners. 
 
@@ -257,7 +257,7 @@ either because there is no good alternative for the type of analysis they want t
 things manually on individual files is unfeasible. 
 
 This lesson will introduce learners to fundamental skills needed for working with their computers through a command-line interface (using
-the bash shell). They will learn how to navigate their file system, computationally manipulate their files (e.g. copying, moving, renaming), search files, redirect output and write shell scripts. By the end of the lesson, learners will be prepared to move on to using more advanced bioinformatics command line tools (see the lesson on [Data Processing and Visualization for Metagenomics](https://carpentries-lab.github.io/metagenomics-analysis/)).
+the bash shell). They will learn how to navigate their file system, computationally manipulate their files (e.g. copying, moving, renaming), search files, redirect output and write shell scripts. By the end of the lesson, learners will be prepared to move on to using more advanced bioinformatics command line tools (see the lesson on [Data Processing and Visualization for Metagenomics](https://drtamermansour.github.io/metagenomics-analysis/)).
 
 ## Lesson design
 
@@ -277,7 +277,7 @@ In order to edit your command prompt, type `PS1='\W\ $ '` into your shell and pr
 
 In order to reset the command prompt, type `source .bashrc` in order to source the bash profile, or type `PS1="\u@\h:\w $ "` in order to set the prompt to show username, "@", hostname, ":", and current working directory (ie. the user's current location within the filesystem). 
 
-NOTE: Editing the prompt is discussed in [Introducing the Shell](https://carpentries-lab.github.io/metagenomics-shell/01-introduction/index.html) under the 'Navigating your file system' section. This explains how to edit the prompt via `PS1='\W\ $ '` as here, so it would perhaps be best to *start* the lesson with the *default* prompt (as all the learners will and they can see that their screen will reassuringly match the instructor's screen at this point), and then instructors can choose to edit their prompt and talk through how they're doing that for learners' benefit at this section, or the instructor can just make the change early in the lesson for the visibility benefit, and explain to learners that they can find out how to do this in the lesson materials. 
+NOTE: Editing the prompt is discussed in [Introducing the Shell](https://drtamermansour.github.io/metagenomics-shell/01-introduction/index.html) under the 'Navigating your file system' section. This explains how to edit the prompt via `PS1='\W\ $ '` as here, so it would perhaps be best to *start* the lesson with the *default* prompt (as all the learners will and they can see that their screen will reassuringly match the instructor's screen at this point), and then instructors can choose to edit their prompt and talk through how they're doing that for learners' benefit at this section, or the instructor can just make the change early in the lesson for the visibility benefit, and explain to learners that they can find out how to do this in the lesson materials. 
 
 Resetting the command prompt is not currently included in the lesson materials, so it might be useful to be familiar with this beforehand in case of learners' questions.
 
@@ -326,4 +326,4 @@ Particularly when graphics were generated with ggplot you can use `ggsave` funct
   
 # Improving the workshop
 
-If you give this workshop and find more recommendations that can be useful to other instructors please make a **pull request** to [this page](https://carpentries-lab.github.io/metagenomics-workshop/guide/index.html).
+If you give this workshop and find more recommendations that can be useful to other instructors please make a **pull request** to [this page](https://drtamermansour.github.io/metagenomics-workshop/guide/index.html).

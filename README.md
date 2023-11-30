@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7713380.svg)](https://doi.org/10.5281/zenodo.7713380)
 
-[![The Carpentries Lab Review Status](http://badges.carpentries-lab.org/11_status.svg)](https://github.com/carpentries-lab/reviews/issues/11)
+[![The Carpentries Lab Review Status](http://badges.drtamermansour.org/11_status.svg)](https://github.com/drtamermansour/reviews/issues/11)
 
 # Metagenomics Workshop
 

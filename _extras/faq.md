@@ -25,7 +25,7 @@ This lesson assumes no prior experience with the tools covered in the workshop. 
 
 ### What are the software, hardware, and connectivity needs for this workshop?
 
-Learners will need to bring a laptop (not a tablet) with any spreadsheet program installed (e.g. LibreOffice, Microsoft Excel). Learners using a Windows machine will also need to download and install [Git for Windows](https://gitforwindows.org/). There are no other hardware or software requirements. Learners will need a stable, strong internet connection in order to work on the remote computing system used for this workshop.More information in the [Setup](https://carpentries-lab.github.io/metagenomics-workshop/setup.html) page of this workshop.
+Learners will need to bring a laptop (not a tablet) with any spreadsheet program installed (e.g. LibreOffice, Microsoft Excel). Learners using a Windows machine will also need to download and install [Git for Windows](https://gitforwindows.org/). There are no other hardware or software requirements. Learners will need a stable, strong internet connection in order to work on the remote computing system used for this workshop.More information in the [Setup](https://drtamermansour.github.io/metagenomics-workshop/setup.html) page of this workshop.
 
 ### My institution has its own compute cluster, or our research group uses a different cloud computing resource. Can we deliver the workshop using that system?
 
@@ -50,7 +50,7 @@ You will need experience using a bash shell (the default shell on Mac OS and mos
 
 ### How can I prepare to teach this material? 
 
-Each lesson has a set of Instructor Notes that provide information about the design of the lesson, commonly encountered problems, and technical tips and tricks. You can access [Instructor Notes](https://carpentries-lab.github.io/metagenomics-workshop/guide/index.html). Instructor Notes are written collaboratively by our Instructors, so please contribute your own notes after your workshop!
+Each lesson has a set of Instructor Notes that provide information about the design of the lesson, commonly encountered problems, and technical tips and tricks. You can access [Instructor Notes](https://drtamermansour.github.io/metagenomics-workshop/guide/index.html). Instructor Notes are written collaboratively by our Instructors, so please contribute your own notes after your workshop!
 
 ### When will I have access to an AWS image to practice on?
 
@@ -62,7 +62,7 @@ The Carpentries Workshop and Logistics Manager will provide Instructors with con
 
 ### What are common problems that arise during this workshop?
 
-The best place to get information about common problems that arise during workshops is in the [Instructor Notes](https://carpentries-lab.github.io/metagenomics-workshop/guide/index.html). You can access Instructor Notes through the Extras menu in the top navigation bar that appears across the head of each lesson. Instructors are strongly encouraged to contribute back to the Instructor Notes based on their workshop experience. To contribute to the Instructor Notes, click the “Improve this page” menu option in the upper right corner of the Instructor Notes page. 
+The best place to get information about common problems that arise during workshops is in the [Instructor Notes](https://drtamermansour.github.io/metagenomics-workshop/guide/index.html). You can access Instructor Notes through the Extras menu in the top navigation bar that appears across the head of each lesson. Instructors are strongly encouraged to contribute back to the Instructor Notes based on their workshop experience. To contribute to the Instructor Notes, click the “Improve this page” menu option in the upper right corner of the Instructor Notes page. 
 
 ### Does the AWS image location matter? Do I need to set up an AMI in a different region if my workshop will be held outside of the Eastern US?
 
